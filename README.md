@@ -1,16 +1,20 @@
-### Hi there 👋
+<!-- My skill -->
 
-<!--
-**Daniel0110000/Daniel0110000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,javascript,cs,java,php,bash,kotlin,androidstudio,dart" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,linux,nodejs,express,php,firebase,figma,git,github,blender,bootstrap,dotnet,eclipse" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=gradle,godot,idea,mysql,postman,sqlite,svg,unity,vim,visualstudio,vscode" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![BEPb's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Daniel0110000&theme=github-compact)](https://github.com/Daniel0110000/github-readme-activity-graph)
