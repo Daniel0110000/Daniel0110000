@@ -8,7 +8,7 @@
   <image src="https://github.com/Daniel0110000/Daniel0110000/blob/main/assets/icon_android.webp" width="100px" height="100px"/>
 </p>
 
-<h3 align="center">💻 Android Full Stack Developer 💻</h3>
+<h3 align="center">💻 Android Developer 💻</h3>
 
 - 🔭 Currently working as a freelance android programmer
 
