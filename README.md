@@ -27,7 +27,7 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,linux,nodejs,express,php,firebase,figma,git,github,blender,bootstrap,dotnet,eclipse" />
+    <img src="https://skillicons.dev/icons?i=flutter,linux,nodejs,express,firebase,figma,git,github,blender,bootstrap,dotnet,eclipse" />
   </a>
 </p>
 <p align="center">
