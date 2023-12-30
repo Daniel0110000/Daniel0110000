@@ -1,39 +1,27 @@
-<!-- Header -->
-[![MasterHead](https://github.com/Daniel0110000/Daniel0110000/blob/main/assets/header.webp)]()
-<h1 align="center">Hi 👋, I'm Daniel Carias</h1>
-
-<!-- My description -->
-
-<p align="center"="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Android_Studio_Icon_3.6.svg/1900px-Android_Studio_Icon_3.6.svg.png">
-  <image src="https://github.com/Daniel0110000/Daniel0110000/blob/main/assets/icon_android.webp" width="100px" height="100px"/>
-</p>
-
-<h3 align="center">💻 Android Developer 💻</h3>
-
-- 🔭 Currently working as a freelance android programmer
-
-- 🌱 I keep learning more about native and cross-platform Android development
-
-- 👨‍💻 Some of my personal projects are available at: [Daniel0110000](https://github.com/Daniel0110000)
-
-- 📫 How to contact me **cariasdaniel261@gmail.com**
-
-<!-- My skill -->
-## Skills
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,javascript,cs,java,php,bash,kotlin,androidstudio,dart" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,linux,nodejs,express,firebase,figma,git,github,blender,bootstrap,dotnet,eclipse" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gradle,godot,idea,mysql,postman,sqlite,svg,unity,vim,visualstudio,vscode" />
-  </a>
-</p>
-
-[![BEPb's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Daniel0110000&theme=github-compact)](https://github.com/Daniel0110000/github-readme-activity-graph)
+## Skills 
+[![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)]()
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)]()
+[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)]()
+<br/>
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]()
+[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)]()
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=whit)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
+<br/>
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=whit)]()
+[![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)]()
+[![Intellij Idea](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)]()
+[![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)]()
+<br/>
+[![Alacratty](https://img.shields.io/badge/alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white)]()
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)]()
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)]()
+[![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)]()
+<br/>
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)]()
+[![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]()
+[![Html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)]()
+[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
+<br/>
+[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)]()
