@@ -1,3 +1,21 @@
+```kotlin
+data class AboutMe {
+    val firstName = "Daniel"
+    val lastName = "Blas"
+    val email = "cariasdaniel261@gmail.com"
+    val yearsOfExperience = 2
+    val role = "Android Developer"
+}
+```
+
+🚀 Engaged in the realm of freelance Android development, I am continuously honing my skills and expanding my knowledge
+
+🌱 Currently, my focus is on delving deeper into ***Kotlin Multiplatform Mobile (KMM)*** and the intricacies of **Reverse Engineering** to broaden my expertise
+
+👨‍💻 Explore my portfolio of personal projects on GitHub: **[Daniel0110000](https://github.com/Daniel0110000)**
+
+📫 Reach out to me at **cariasdaniel261@gmail.com** for inquiries or collaboration opportunities
+
 ## Skills 
 [![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)]()
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
