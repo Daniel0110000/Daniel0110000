@@ -51,3 +51,4 @@ data class AboutMe {
   <img alt="github-snake" src="assets/github-snake-dark.svg" />
 </picture>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel0110000&layout=compact)
