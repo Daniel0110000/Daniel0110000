@@ -16,7 +16,7 @@ data class AboutMe {
 
 📫 Reach out to me at **cariasdaniel261@gmail.com** for inquiries or collaboration opportunities
 
-## Skills 
+## 🚀 Skills 
 [![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)]()
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)]()
@@ -43,3 +43,11 @@ data class AboutMe {
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
 <br/>
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)]()
+
+## 📊 GitHub Activity:
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/github-snake-light.svg" />
+  <img alt="github-snake" src="assets/github-snake-dark.svg" />
+</picture>
+
