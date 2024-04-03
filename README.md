@@ -38,7 +38,7 @@ data class AboutMe {
 #### Operating Systems
 [![Design Tools](https://skillicons.dev/icons?i=arch,linux,windows)](https://skillicons.dev)
 
-## 📊 GitHub Activity:
+# 📊 GitHub Activity:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="assets/github-snake-light.svg" />
@@ -46,3 +46,4 @@ data class AboutMe {
 </picture>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel0110000&layout=compact)
+
