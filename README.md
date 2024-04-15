@@ -3,8 +3,8 @@ data class AboutMe {
     val firstName = "Daniel"
     val lastName = "Blas"
     val email = "cariasdaniel261@gmail.com"
-    val yearsOfExperience = 2
-    val role = "Android Developer"
+    val yearsOfExperience = 3
+    val role = "Native Android Developer"
 }
 ```
 
