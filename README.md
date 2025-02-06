@@ -13,13 +13,11 @@
 ========================================
 ```    
 
-🚀 Engaged in the realm of freelance Android development, I am continuously honing my skills and expanding my knowledge
+🚀 Engaged in the realm of freelance Android development, I am continuously honing my skills and expanding my knowledge.
 
-🌱 Currently, my focus is on delving deeper into ***Kotlin Multiplatform Mobile (KMM)*** and the intricacies of **Reverse Engineering** to broaden my expertise
+🌱 Currently, my focus is on delving deeper into ***Kotlin Multiplatform Mobile (KMM)*** and the intricacies of **Reverse Engineering** to broaden my expertise.
 
-👨‍💻 Explore my portfolio of personal projects on GitHub: **[Daniel0110000](https://github.com/Daniel0110000)**
-
-📫 Reach out to me at **cariasdaniel261@gmail.com** for inquiries or collaboration opportunities
+📫 Reach out to me at **cariasdaniel261@gmail.com** for inquiries or collaboration opportunities.
 
 # 🚀 Skills 
 #### Programming Languages
